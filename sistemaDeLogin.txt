@@ -1,6 +1,0 @@
-SeuLogin
-SuaSenha
-terceira linha
-quarta linha
-quinta linha
-e sexta linha
